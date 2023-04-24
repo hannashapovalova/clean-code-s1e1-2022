@@ -22,9 +22,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .image-block-element { 
     text-align: center;
   }
+  
 }
 
 .main-block-element {
